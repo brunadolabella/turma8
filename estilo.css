@@ -1,0 +1,29 @@
+body{
+    background-color: rgba(121, 253, 242, 0.363);
+    margin-top:50px;
+}
+h1{
+    color:crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 5px;
+    text-align: center;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(166, 175, 166);
+    
+}
+a{
+    text-decoration: none;
+    color: deeppink;
+}
+img{
+    width: 300px;
+    height: 500px;
+}
+div{
+    
+    margin: 50px;
+    padding: 30px;
+    text-align: center;
+}
